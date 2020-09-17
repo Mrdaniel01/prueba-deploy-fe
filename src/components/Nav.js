@@ -9,22 +9,24 @@ function Nav() {
 
   return <div>
     <div className="header">
-        <img className="header__img" src={logo} alt="logo" />
-        <div className="header__menu">
-            <nav className="header__options">
-                <ul className="header__options--ul">
-                    <li>
-                        <a href="#"><img src={search} /></a>
-                    </li>
-                    <li>
-                        <a href="#"><img src={car} /></a>
-                    </li>
-                    <li>
-                        <a href="#"><img src={avatar} /></a>
-                    </li>
-                </ul>
-            </nav>
-        </div>
+			<a  href='/' >
+				<img className="header__img" src={logo} alt="dailycius logo" />
+			</a>
+			<div className="header__menu">
+				<nav className="header__options">
+					<ul className="header__options--ul">
+						<li>
+							<a href="/"><img src={search} alt='search' /></a>
+						</li>
+						<li>
+							<a href="/"><img src={car} alt='search' /></a>
+						</li>
+						<li>
+							<a href="/"><img src={avatar} alt='search' /></a>
+						</li>
+					</ul>
+				</nav>
+			</div>
     </div>
   </div>
   

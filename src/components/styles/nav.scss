@@ -1,13 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 * {
-
-    max-width: 100%;
-    margin: 0px; 
-    padding: 0px;
-    background-color: var(--primary-color);
-    font-family: var(--primary-fonts);
-
+  max-width: 100%;
+  margin: 0px; 
+  padding: 0px;
+  background-color: var(--primary-color);
+  font-family: var(--primary-fonts);
 }
 
 :root {
@@ -46,39 +44,35 @@
 }
 
 .header {
-
   display: flex;
   justify-content: space-between;
   height: 70px;
   padding-left: 20px;
   padding-right: 20px;
   box-shadow:  1px 2px 4px var(--shadow-color); 
-
+  a {
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
 }
 
 .header__img {
-
   align-items: center;
   object-fit: contain;
-
 }
-.header__menu {
 
+.header__menu {
   align-items: center;
   display: flex;
-
 }
 
 .header__options--ul {
-
   display: flex;
   list-style: none;
   align-items: center;
-
 }
 
 .header__options--ul a {
-
   margin-left: 10px;   
-
 }

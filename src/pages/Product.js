@@ -149,7 +149,7 @@ return <>
 					step 1.
 				</h3>
 				<p>
-					First step, and most important of all….line your baking sheet with aluminum foil for easy clean up.  If you’re lucky, you won’t even poke a hole in the foil and may not even need to wash it!  🙂
+					First step, and most important of all….line your baking sheet with aluminum foil for easy clean up.  If you’re lucky, you won’t even poke a hole in the foil and may not even need to wash it!
 				</p>
 			</li>
 			<li>
@@ -158,7 +158,7 @@ return <>
 				</h3>
 				<p>
 				Place the chicken skin side up on the baking sheet and coat with about a tablespoon of olive oil.  Rub to coat the chicken evenly.
-				Sprinkle liberally with kosher salt to coat evenly.  You’re going to discard the skin so it’s ok if it’s extra salt.  Or you can eat it.  It’s really good…like addictingly good…like a potato chip.  So, don’t throw it out.  🙂
+				Sprinkle liberally with kosher salt to coat evenly.  You’re going to discard the skin so it’s ok if it’s extra salt.  Or you can eat it.  It’s really good…like addictingly good…like a potato chip.  So, don’t throw it out.
 
 				</p>
 			</li>

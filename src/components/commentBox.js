@@ -9,13 +9,13 @@ function commentBox() {
     <div className='commentBox__items'>
       <span className='commentBox__items--comment'>
         <div>
-          <img src='https://www.flaticon.com/svg/static/icons/svg/2922/2922510.svg' alt='profile photo' />
+          <img src='https://www.flaticon.com/svg/static/icons/svg/2922/2922510.svg' alt='profile' />
         </div>
         <p>nice recipe</p>
       </span>
       <span className='commentBox__items--comment'>
         <div>
-          <img src='https://www.flaticon.com/svg/static/icons/svg/2922/2922510.svg' alt='profile photo' />
+          <img src='https://www.flaticon.com/svg/static/icons/svg/2922/2922510.svg' alt='profile' />
         </div>
         <p> A llittle complex to do, but grat to dinner with your friends.</p>
       </span>
